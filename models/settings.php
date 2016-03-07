@@ -11,12 +11,12 @@
 	
 	//Database Information
 	$dbtype = "mysql"; 
-	$db_host = "localhost";
-	$db_user = "";
-	$db_pass = "";
-	$db_name = "";
+	$db_host = "mysql.hostinger.in";
+	$db_user = "u828621389_trek";
+	$db_pass = "mydatabase";
+	$db_name = "u828621389_trek";
 	$db_port = "";
-	$db_table_prefix = "userpie_";
+	$db_table_prefix = "user_";
 
 	$langauge = "en";
 	
